@@ -1,1 +1,3 @@
-window.globalNumberForTest = ++window.globalNumberForTest || 1;
+(function() {
+  window.globalNumberForTest = ++window.globalNumberForTest || 1;
+})();
