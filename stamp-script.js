@@ -1,0 +1,1 @@
+window.globalLastXHR = +new Date();
